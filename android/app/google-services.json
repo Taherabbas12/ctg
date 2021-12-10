@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350051063754",
+    "project_id": "ctg2-e9a00",
+    "storage_bucket": "ctg2-e9a00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350051063754:android:ebe4e2c7c876157d126133",
+        "android_client_info": {
+          "package_name": "com.tahergo.ctg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350051063754-63p9mdo7fu8p0fjcv8of0ha3t4rkd7hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgWjZwArwKQ4ZY6jD_sgCdhks1suHpvt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350051063754-63p9mdo7fu8p0fjcv8of0ha3t4rkd7hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
